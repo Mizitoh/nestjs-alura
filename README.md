@@ -43,13 +43,13 @@ The objective of this repository is to serve as a record of my learning and as a
 
 ## Como Executar / How to Run
 
-1.  Clone o repositório: `git clone https://github.com/dolthub/dolt`
-2.  Navegue até o diretório do projeto: `cd nestjs-alura`
+1.  Clone o repositório: `git clone https://github.com/Mizitoh/nestjs-alura.git`
+2.  Navegue até o diretório do projeto: `cd loja`
 3.  Instale as dependências: `npm install`
 4.  Execute o aplicativo: `npm run start:dev`
 
-1.  Clone the repository: `git clone [repository URL]`
-2.  Navigate to the project directory: `cd nestjs-alura`
+1.  Clone the repository: `git clone  https://github.com/Mizitoh/nestjs-alura.git`
+2.  Navigate to the project directory: `cd loja`
 3.  Install dependencies: `npm install`
 4.  Run the application: `npm run start:dev`
 
@@ -59,16 +59,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
-## Licença / License
-
-[Insira a licença do seu projeto, se aplicável]
-
-[Insert your project license, if applicable]
-
 ## Autor / Author
 
-[Seu nome]
+Michael
 
 ## Contato / Contact
 
-[Seu email ou outras formas de contato]
+mizitoh@hotmail.com
